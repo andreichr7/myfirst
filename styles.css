@@ -37,7 +37,7 @@ body {
     background-color: #0C0F16;
 }
 .tate {
-    width: 100;
+    width: max100;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -45,10 +45,10 @@ body {
 }
 .h1title {
     display: block;
-    width: 400;
+    width: auto;
     color: white;
-    margin-left: 750;
-    margin-right: 750;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 2;
     margin-top: 20;
 }
